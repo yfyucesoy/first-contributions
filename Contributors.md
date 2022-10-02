@@ -1,6 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+- [Ayush Aryan](https://github.com/Ayush-Aryan-0)
 -[Samyak Sheokar](https://github.com/SamyakSheokar2203)
 -[Tharuka Wijekoon](https://github.com/tharuka01)
 -[Aman Kulshreshtha](https://github.com/Aman-kulshreshtha)
@@ -27,6 +28,7 @@
 - [Lakshmipriya Baskar](https://github.com/lakshmipriya166)
 - [Sharun E Rajeev](https://github.com/sharunerajeev)
 - [Romário Ferreira](https://github.com/Romariorfr?tab=repositories)
+- [Benjamin Duffield-Harding](https://github.com/ben-dh3)
 - [Om Prakash](https://github.com/itsokop)
 - [Anshul Singh](https://github.com/anshulsc)
 - [Atinder Kumar](https://github.com/atinder11)
@@ -64,6 +66,7 @@
 - [rohit2215](https://github.com/rohit2215)
 - [Omar Elhorbity](https://github.com/Omar-Elhorbity)
 - [Denny Ribeiro](https://github.com/hulluxhd)
+- [Sam](https://github.com/ElTenl)
 - [Charvi Upreti]
 - [mind8hunter](https://www.youtube.com/channel/UCYD48GnJeHDSrEJle-IzG1A)
 - [Emanuele Favero](https://github.com/emanuelefavero)
@@ -97,6 +100,7 @@
 - [Ansari Danish](https://github.com/ansari-danish)
 - [Manish Kumar](https://github.com/Manishch27)
 - [Trista L. Pollard](https://github.com/tlanettepollard)
+- [Aysha Fathima](https://github.com/Aysha-Fathima)
 - [Sourasish Mondal](https://github.com/souraOP)
 - [Tanishq Singh](https://github.com/tanishq-singh-2301)
 - [JATIN SAINI](https://github.com/yunocrown)
@@ -519,6 +523,7 @@
 - [Harshal Pathak](https://github.com/dev-game-ops)
 - [Victoria Young](https://github.com/vyoung708)
 - [Sahinur Islam](https://github.com/devSahinur)
+- [Tarctic](https://github.com/Tarctic)
 - [Jitender Singh Chhapola](https://github.com/niteshjitender)
 - [Thomas Roy](https://github.com/throy45)
 - [Nemanja Jocanovic]
@@ -1528,5 +1533,7 @@
 - [Ashish Upadhyay](https://github.com/Ashiiidev)
 - [Nishant Choudhary](https://github.com/Code-Nishant)
 - [Sahadat Sk](https://github.com/sahadat-sk)
+- [Kibi](https://github.com/Kibiandkimi)
+- [Konisha](https://github.com/koni24)
 
 <!-- prettier-ignore-end -->
